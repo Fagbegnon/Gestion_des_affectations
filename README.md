@@ -1,7 +1,7 @@
 # Gestion_des_affectations
 Application pour le gestion des affectation d'encadreur pour la soutenance 2026
 
-Cahier des charges
+# Cahier des charges
 
 1. Objectif du projet
 Développer une application permettant aux étudiants de soumettre un cahier des charges de projet, de désigner un binôme, et à l'administrateur d’attribuer un encadreur à chaque groupe.
@@ -54,3 +54,12 @@ Gère les cahiers des charges :
 Visualise la liste des cahiers soumis.
 
 Associe un encadreur à chaque cahier des charges soumis.
+
+# Technologies
+Utilisation de composer pour gestion automatique des autoloads
+composer init
+
+//apres  chaque modification de classe
+composer dump-autoload 
+
+
