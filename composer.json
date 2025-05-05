@@ -1,0 +1,15 @@
+{
+    "name": "tp/gesttion-affectation",
+    "autoload": {
+        "psr-4": {
+            "Tp\\GesttionAffectation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fagbegnon",
+            "email": "brufagbegnon@gmail.com"
+        }
+    ],
+    "require": {}
+}
