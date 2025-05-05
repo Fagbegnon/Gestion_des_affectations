@@ -57,9 +57,11 @@ Associe un encadreur à chaque cahier des charges soumis.
 
 # Technologies
 Utilisation de composer pour gestion automatique des autoloads
+
 composer init
 
 //apres  chaque modification de classe
+
 composer dump-autoload 
 
 
